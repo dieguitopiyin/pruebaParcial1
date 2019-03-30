@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28307.438
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVCparcial", "MVCparcial\MVCparcial.csproj", "{20F7638F-6790-479B-A13C-AAF013EE93CA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APIparcial", "APIparcial\APIparcial.csproj", "{1FC065C0-85E4-4ABB-A97A-55F2E9B4A3BC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{20F7638F-6790-479B-A13C-AAF013EE93CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{20F7638F-6790-479B-A13C-AAF013EE93CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{20F7638F-6790-479B-A13C-AAF013EE93CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1FC065C0-85E4-4ABB-A97A-55F2E9B4A3BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1FC065C0-85E4-4ABB-A97A-55F2E9B4A3BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1FC065C0-85E4-4ABB-A97A-55F2E9B4A3BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1FC065C0-85E4-4ABB-A97A-55F2E9B4A3BC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
